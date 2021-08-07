@@ -1,5 +1,8 @@
 classes = 3
-train = data/train.txt
-valid = data/test.txt
+train_c = data/train_c.txt
+valid_c = data/test_c.txt
+train_g = data/train_g.txt
+valid_g = data/test_g.txt
 names = data/classes.names
 backup = backup
+
