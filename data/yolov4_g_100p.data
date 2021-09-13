@@ -1,7 +1,7 @@
 classes = 3
 train_c = data/train_c_p200.txt
 valid_c = data/test_c.txt
-train = data/train_g_100.txt
+train = data/train_g_p100.txt
 valid = data/test_g.txt
 names = data/classes.names
 backup = backup

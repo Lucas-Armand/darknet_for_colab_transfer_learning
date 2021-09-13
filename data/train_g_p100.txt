@@ -1,102 +1,102 @@
-FALSO	data/ts/00001.jpg
-FALSO	data/ts/00002.jpg
-FALSO	data/ts/00003.jpg
-FALSO	data/ts/00004.jpg
-FALSO	data/ts/00005.jpg
-FALSO	data/ts/00006.jpg
-FALSO	data/ts/00007.jpg
-FALSO	data/ts/00008.jpg
-FALSO	data/ts/00009.jpg
-FALSO	data/ts/00011.jpg
-FALSO	data/ts/00012.jpg
-FALSO	data/ts/00013.jpg
-FALSO	data/ts/00014.jpg
-FALSO	data/ts/00015.jpg
-FALSO	data/ts/00017.jpg
-FALSO	data/ts/00018.jpg
-FALSO	data/ts/00019.jpg
-FALSO	data/ts/00020.jpg
-FALSO	data/ts/00021.jpg
-FALSO	data/ts/00022.jpg
-FALSO	data/ts/00023.jpg
-FALSO	data/ts/00025.jpg
-FALSO	data/ts/00026.jpg
-FALSO	data/ts/00027.jpg
-FALSO	data/ts/00028.jpg
-FALSO	data/ts/00029.jpg
-FALSO	data/ts/00030.jpg
-FALSO	data/ts/00031.jpg
-FALSO	data/ts/00032.jpg
-FALSO	data/ts/00033.jpg
-FALSO	data/ts/00034.jpg
-FALSO	data/ts/00035.jpg
-FALSO	data/ts/00036.jpg
-FALSO	data/ts/00037.jpg
-FALSO	data/ts/00039.jpg
-FALSO	data/ts/00040.jpg
-FALSO	data/ts/00041.jpg
-FALSO	data/ts/00042.jpg
-FALSO	data/ts/00043.jpg
-FALSO	data/ts/00045.jpg
-FALSO	data/ts/00047.jpg
-FALSO	data/ts/00048.jpg
-FALSO	data/ts/00049.jpg
-FALSO	data/ts/00050.jpg
-FALSO	data/ts/00052.jpg
-FALSO	data/ts/00053.jpg
-FALSO	data/ts/00054.jpg
-FALSO	data/ts/00055.jpg
-FALSO	data/ts/00056.jpg
-FALSO	data/ts/00057.jpg
-FALSO	data/ts/00060.jpg
-FALSO	data/ts/00061.jpg
-FALSO	data/ts/00063.jpg
-FALSO	data/ts/00064.jpg
-FALSO	data/ts/00065.jpg
-FALSO	data/ts/00066.jpg
-FALSO	data/ts/00067.jpg
-FALSO	data/ts/00069.jpg
-FALSO	data/ts/00070.jpg
-FALSO	data/ts/00071.jpg
-FALSO	data/ts/00072.jpg
-FALSO	data/ts/00073.jpg
-FALSO	data/ts/00074.jpg
-FALSO	data/ts/00075.jpg
-FALSO	data/ts/00076.jpg
-FALSO	data/ts/00077.jpg
-FALSO	data/ts/00078.jpg
-FALSO	data/ts/00079.jpg
-FALSO	data/ts/00080.jpg
-FALSO	data/ts/00081.jpg
-FALSO	data/ts/00082.jpg
-FALSO	data/ts/00083.jpg
-FALSO	data/ts/00084.jpg
-FALSO	data/ts/00085.jpg
-FALSO	data/ts/00088.jpg
-FALSO	data/ts/00089.jpg
-FALSO	data/ts/00092.jpg
-FALSO	data/ts/00093.jpg
-FALSO	data/ts/00094.jpg
-FALSO	data/ts/00095.jpg
-FALSO	data/ts/00097.jpg
-FALSO	data/ts/00099.jpg
-FALSO	data/ts/00100.jpg
-FALSO	data/ts/00101.jpg
-FALSO	data/ts/00102.jpg
-FALSO	data/ts/00103.jpg
-FALSO	data/ts/00104.jpg
-FALSO	data/ts/00105.jpg
-FALSO	data/ts/00106.jpg
-FALSO	data/ts/00107.jpg
-FALSO	data/ts/00109.jpg
-FALSO	data/ts/00110.jpg
-FALSO	data/ts/00111.jpg
-FALSO	data/ts/00112.jpg
-FALSO	data/ts/00113.jpg
-FALSO	data/ts/00114.jpg
-FALSO	data/ts/00115.jpg
-FALSO	data/ts/00116.jpg
-FALSO	data/ts/00117.jpg
-FALSO	data/ts/00118.jpg
-FALSO	data/ts/00599.jpg
+data/ts/00001.jpg
+data/ts/00002.jpg
+data/ts/00003.jpg
+data/ts/00004.jpg
+data/ts/00005.jpg
+data/ts/00006.jpg
+data/ts/00007.jpg
+data/ts/00008.jpg
+data/ts/00009.jpg
+data/ts/00011.jpg
+data/ts/00012.jpg
+data/ts/00013.jpg
+data/ts/00014.jpg
+data/ts/00015.jpg
+data/ts/00017.jpg
+data/ts/00018.jpg
+data/ts/00019.jpg
+data/ts/00020.jpg
+data/ts/00021.jpg
+data/ts/00022.jpg
+data/ts/00023.jpg
+data/ts/00025.jpg
+data/ts/00026.jpg
+data/ts/00027.jpg
+data/ts/00028.jpg
+data/ts/00029.jpg
+data/ts/00030.jpg
+data/ts/00031.jpg
+data/ts/00032.jpg
+data/ts/00033.jpg
+data/ts/00034.jpg
+data/ts/00035.jpg
+data/ts/00036.jpg
+data/ts/00037.jpg
+data/ts/00039.jpg
+data/ts/00040.jpg
+data/ts/00041.jpg
+data/ts/00042.jpg
+data/ts/00043.jpg
+data/ts/00045.jpg
+data/ts/00047.jpg
+data/ts/00048.jpg
+data/ts/00049.jpg
+data/ts/00050.jpg
+data/ts/00052.jpg
+data/ts/00053.jpg
+data/ts/00054.jpg
+data/ts/00055.jpg
+data/ts/00056.jpg
+data/ts/00057.jpg
+data/ts/00060.jpg
+data/ts/00061.jpg
+data/ts/00063.jpg
+data/ts/00064.jpg
+data/ts/00065.jpg
+data/ts/00066.jpg
+data/ts/00067.jpg
+data/ts/00069.jpg
+data/ts/00070.jpg
+data/ts/00071.jpg
+data/ts/00072.jpg
+data/ts/00073.jpg
+data/ts/00074.jpg
+data/ts/00075.jpg
+data/ts/00076.jpg
+data/ts/00077.jpg
+data/ts/00078.jpg
+data/ts/00079.jpg
+data/ts/00080.jpg
+data/ts/00081.jpg
+data/ts/00082.jpg
+data/ts/00083.jpg
+data/ts/00084.jpg
+data/ts/00085.jpg
+data/ts/00088.jpg
+data/ts/00089.jpg
+data/ts/00092.jpg
+data/ts/00093.jpg
+data/ts/00094.jpg
+data/ts/00095.jpg
+data/ts/00097.jpg
+data/ts/00099.jpg
+data/ts/00100.jpg
+data/ts/00101.jpg
+data/ts/00102.jpg
+data/ts/00103.jpg
+data/ts/00104.jpg
+data/ts/00105.jpg
+data/ts/00106.jpg
+data/ts/00107.jpg
+data/ts/00109.jpg
+data/ts/00110.jpg
+data/ts/00111.jpg
+data/ts/00112.jpg
+data/ts/00113.jpg
+data/ts/00114.jpg
+data/ts/00115.jpg
+data/ts/00116.jpg
+data/ts/00117.jpg
+data/ts/00118.jpg
+data/ts/00599.jpg
 
