@@ -1,0 +1,8 @@
+classes = 3
+train = data/train_c_p50.txt
+valid = data/test_c.txt
+train_g = data/train_g.txt
+valid_g = data/test_g.txt
+names = data/classes.names
+backup = backup
+
