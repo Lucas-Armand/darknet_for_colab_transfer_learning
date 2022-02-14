@@ -1,0 +1,6 @@
+classes = 3
+train_g = data/train_g2c_specific.txt
+valid_c = data/test_c.txt
+names = data/classes.names
+backup = backup
+
